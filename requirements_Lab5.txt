@@ -1,0 +1,10 @@
+tensorflow==2.18.*
+earthengine-api
+pyproj
+scikit-learn
+pandas
+matplotlib
+plotly
+nbformat
+jupyterlab
+ipykernel
